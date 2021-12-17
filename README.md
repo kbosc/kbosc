@@ -6,10 +6,10 @@ Actuellement à la recherche d'un poste en tant que développeur Junior.
 À l'origine, j'ai débuter en tant qu'agent de sécurité et en parallèle de ce travail j'ai commencer à m'intéressais au développement web en autodidacte, pour ensuite me financer un apprentissage plus intense à l'aide d'un bootcamp nommé "Le Wagon" à Paris. <br>
 Bien que cette expérience conforta mon intérêt pour le code, il s'en est suivi quelque difficulté... Toutefois me voilà de nouveau à coder et plus déterminer que jamais à faire carrière en tant que developpeur web.
 
-<a href="https://github.com/kbosc/github-readme-stats">
+<a href="https://github.com/kbosc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kbosc&show_icons=true&theme=aura&hide=contribs,issues" />
 </a>
-<a href="https://github.com/kbosc/github-readme-stats">
+<a href="https://github.com/kbosc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbosc&hide=css,html&layout=compact&theme=aura" />
 </a>
 
