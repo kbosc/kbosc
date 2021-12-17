@@ -9,6 +9,8 @@ Bien que cette expérience conforta mon intérêt pour le code, il s'en est suiv
 <a href="https://github.com/kbosc">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kbosc&show_icons=true&theme=aura&hide=contribs,issues" />
 </a>
+<br>
+<br>
 <a href="https://github.com/kbosc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbosc&hide=css,html&layout=compact&theme=aura" />
 </a>
