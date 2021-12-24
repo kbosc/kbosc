@@ -12,7 +12,7 @@ Bien que cette expérience conforta mon intérêt pour le code, il s'en est suiv
 <br>
 <br>
 <a href="https://github.com/kbosc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbos&layout=compact&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbosc&hide=css,html&layout=compact&theme=aura" />
 </a>
 
 <br>
